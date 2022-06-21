@@ -4,7 +4,7 @@
 
 ## Cite it 
 
-This paper was published as a interspeech 2022.
+This paper was published in interspeech 2022.
 
 
 ## Dataset
